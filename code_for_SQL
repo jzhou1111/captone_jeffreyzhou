@@ -1,4 +1,4 @@
-# captone_jeffreyzhou
+#
 
 SELECT a.Subscriber_Customer, count(*)
 FROM 2019_q2 a
