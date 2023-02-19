@@ -42,6 +42,4 @@ do that, however, the marketing analyst team needs to better understand how annu
 casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
 interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
-Total Number of subscribed members 535,297
 
-Total Number of non-members 142,635
